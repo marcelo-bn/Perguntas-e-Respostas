@@ -12,7 +12,7 @@ A lista abaixo demonstra as tecnologias utilizadas:
 
 # Interfaces da aplicação
 
-Na página inicial da aplicação, demonstrada pela Figura 1, o usuário poderá visualizar todas as perguntas já criadas e, caso queira, atravé do botão *Fazer Pergunta* irá ser direcionado à uma outra interface onde poderá realizar uma pergunta.
+Na página inicial da aplicação, demonstrada pela Figura 1, o usuário poderá visualizar todas as perguntas já criadas e, caso queira, através do botão *Fazer Pergunta* irá ser direcionado à uma outra interface onde poderá realizar uma pergunta.
 
 
 <p align="center">
@@ -26,3 +26,4 @@ A Figura 2 retrata a página destinada para a realização de perguntas. Sempre 
   <img src="./figuras/2.png" alt="alt text" width="600" height="400">
   <h3 align="center"> Figura 2 - Realizar pergunta </h3>
 </p>
+
