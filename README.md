@@ -27,3 +27,16 @@ A Figura 2 retrata a página destinada para a realização de perguntas. Sempre 
   <h3 align="center"> Figura 2 - Realizar pergunta </h3>
 </p>
 
+Agora, após fazer alguma pergunta, todos podem vê-la na página inicial e respondê-la pressionando o botão *Responder* demonstrado na Figura 3.
+
+<p align="center">
+  <img src="./figuras/3.png" alt="alt text" width="600" height="400">
+  <h3 align="center"> Figura 3 - Perguntas realizadas </h3>
+</p>
+
+Por fim, o usuário pode responder e ao mesmo tempo visualizar todas as respostas para a questão escolhida conforme mostrado na Figura 4.
+
+<p align="center">
+  <img src="./figuras/4.png" alt="alt text" width="600" height="400">
+  <h3 align="center"> Figura 4 - Responder pergunta </h3>
+</p>
